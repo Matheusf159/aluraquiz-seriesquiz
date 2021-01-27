@@ -36,7 +36,7 @@ export default function Home() {
     <QuizBackground backgroundImage={db.bg}>
       <Head>
         <title>AluraQuiz - SériesQuiz</title>
-        <meta property="og:image" content={db.bg}/>
+        <meta property="og:image" content={db.bg}></meta>
       </Head>
 
       <QuizContainer>
