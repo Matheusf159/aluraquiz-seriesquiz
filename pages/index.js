@@ -36,7 +36,7 @@ export default function Home() {
     <QuizBackground backgroundImage={db.bg}>
       <Head>
         <title>AluraQuiz - SériesQuiz</title>
-        <meta property="og:image" content={db.bg}></meta>
+        <meta property="og:image" content="https://www.escrevasuahistoria.net/wp-content/uploads/2019/04/motion-picture-cinema-PMXQXRY-e1554849783656-concentrate-1024x492.jpg"></meta>
       </Head>
 
       <QuizContainer>
