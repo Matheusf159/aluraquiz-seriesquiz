@@ -73,7 +73,8 @@ export default function Home() {
 
         <Widget>
           <Widget.Content>
-            <p>Vamos testar seus conhecimentos sobre séries....</p>
+            <h1>Quizes da Galera</h1>
+            <p>Vamos testar seus conhecimentos....</p>
           </Widget.Content>
         </Widget>
 

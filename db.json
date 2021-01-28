@@ -4,25 +4,123 @@
     "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
+        "image": "https://media.giphy.com/media/lfmYxOkGpNtEk/giphy.gif",
+        "title": "Friends - Qual personagem é famosa pela frase: AI, MEU DEUS!!?",
+        "description": " ",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Phoebe",
+          "Rachel",
+          "Janice",
+          "Monica"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://media.giphy.com/media/l1J3F47tzXOa64BTq/giphy.gif",
+        "title": "How i Meet Your Mother - Qual o nome da MÃE dos filhos do Ted?",
+        "description": " ",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Tracy",
+           "Robin",
+           "Victoria",
+           "Stella"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/YOjW8IpbWneVLNkRhe/giphy.gif",
+        "title": "Brooklyn 99 - Qual o filme preferido de Jake Peralta",
+        "description": " ",
+        "answer": 3,
+        "alternatives": [
+          "Loucademia de policia",
+          "A hora do rush",
+          "Rambo",
+          "Duro de Matar"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/l0HlUYktkp6Oxr4B2/giphy.gif",
+        "title": "Game of Thrones - De qual casa Tyrion é?",
+        "description": " ",
+        "answer": 1,
+        "alternatives": [
+          "Stark",
+          "Lannister",
+          "Tyrell",
+          "Baratheon"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/W69eoOfWRA21a/giphy.gif",
+        "title": "Vikings - Qual filho de Ragnar tem o título de Ironside",
+        "description": " ",
+        "answer": 2,
+        "alternatives": [
+          "Ivar",
+          "Ubber",
+          "Bjorn",
+          "Hvitserk"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/5dUxNr4w3XvfteD0fV/giphy.gif",
+        "title": "The big bang theory - Quantos irmãos Sheldon tem?",
+        "description": " ",
+        "answer": 1,
+        "alternatives": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/l0MYyW1RMcZQSKG2I/giphy.gif",
+        "title": "The walking dead - Quem é conhecido por utilizar uma espada como arma?",
+        "description": " ",
+        "answer": 3,
+        "alternatives": [
+          "Maggie",
+          "Rick",
+          "Glenn",
+          "Michonne"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/d3ksbEi9mSqvAgYE/giphy.gif",
+        "title": "Dark - Qual a diferenças entre as épocas que se passa a série?",
+        "description": " ",
+        "answer": 0,
+        "alternatives": [
+          "33",
+          "23",
+          "30",
+          "13"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/l41Y9SKrl3kLVamfC/giphy.gif",
+        "title": "Strange things - Qual o nome da irmã do Mike?",
+        "description": " ",
+        "answer": 1,
+        "alternatives": [
+          "Erika",
+          "Nancy",
+          "Rose",
+          "Anna"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/HSmsJtHQb13PO/giphy.gif",
+        "title": "Peaky blinders - Em que ano Thomas Shelby nasceu?",
+        "description": " ",
+        "answer": 2,
+        "alternatives": [
+          "1780",
+          "1980",
+          "1890",
+          "1750"
         ]
       }
     ],
