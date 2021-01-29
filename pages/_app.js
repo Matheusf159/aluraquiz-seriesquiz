@@ -34,7 +34,7 @@ export default function App({ Component, pageProps }) {
   return (
     <>
       <Head>
-      <title>{db.title}</title>
+        <title>{db.title}</title>
         <meta property="og:title" content={db.title} />
         <meta property="og:image" content={db.bg} />
         <meta property="og:description" content={db.description} />
