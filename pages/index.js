@@ -41,17 +41,16 @@ export default function Home() {
       <Head>
         <title>AluraQuiz - SériesQuiz</title>
         
-        <meta property="og:type" content="website" />
-        <meta
-          property="og:url"
-          content="https://aluraquiz-seriesquiz.vercel.app/"
-        />
-        <meta property="og:title" content="Data Science Quiz" />
+        {/* Twitter */}
+        <meta name="twitter:card" content="summary" key="twcard" />
+        <meta name="twitter:creator" content={db.bg} key="twhandle" />
 
-        <meta
-          property="og:image"
-          content="https://www.escrevasuahistoria.net/wp-content/uploads/2019/04/motion-picture-cinema-PMXQXRY-e1554849783656-concentrate-1024x492.jpg"
-        />
+        {/* Open Graph */}
+        <meta property="og:url" content="https://aluraquiz-seriesquiz.vercel.app/" key="ogurl" />
+        <meta property="og:image" content={db.bg} key="ogimage" />
+        <meta property="og:site_name" content="Series Quiz" key="ogsitename" />
+        <meta property="og:title" content={db.title} key="ogtitle" />
+        <meta property="og:description" content={db.description} key="ogdesc" />
       </Head>
 
       <QuizContainer>
