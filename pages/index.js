@@ -41,16 +41,7 @@ export default function Home() {
       <Head>
         <title>AluraQuiz - SériesQuiz</title>
         
-        {/* Twitter */}
-        <meta name="twitter:card" content="summary" key="twcard" />
-        <meta name="twitter:creator" content={db.bg} key="twhandle" />
-
-        {/* Open Graph */}
-        <meta property="og:url" content="https://aluraquiz-seriesquiz.vercel.app/" key="ogurl" />
-        <meta property="og:image" content={db.bg} key="ogimage" />
-        <meta property="og:site_name" content="Series Quiz" key="ogsitename" />
-        <meta property="og:title" content={db.title} key="ogtitle" />
-        <meta property="og:description" content={db.description} key="ogdesc" />
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
 
       <QuizContainer>
